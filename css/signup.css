@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+/*
+ * セレクタ名{
+ *      プロパティー名: 値;
+ *      }
+ *      */
+
+.elapsed_time {
+	color: #000;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #f5f5f5;
+	margin-right: auto;
+	margin-left : auto;
+//	width: 800px;
+	color: #222;
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif; font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	margin-top: 0;
+	-webkit-font-smoothing: antialiased;
+}
+
+
